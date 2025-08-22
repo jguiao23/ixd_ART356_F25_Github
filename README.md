@@ -18,3 +18,4 @@ This *text is italized*
 
 ### Journal Entries
 Visit my [Journal 01](journal/8262025_entry.md)
+
