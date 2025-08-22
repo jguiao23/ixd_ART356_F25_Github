@@ -14,5 +14,5 @@ This *text is italized*
 
 ### This is an image
 
-![This is Sora wearing headphones listening to peak] (https://i.pinimg.com/736x/a0/22/e1/a022e1a3e99547df22e9af2de434cd88.jpg)
+![This is Sora wearing headphones](https://i.pinimg.com/736x/a0/22/e1/a022e1a3e99547df22e9af2de434cd88.jpg)
 
