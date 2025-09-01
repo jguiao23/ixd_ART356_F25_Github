@@ -8,4 +8,11 @@ This chapter is a beginning baseline of the the following:
 
 -The importance of Automatic Type Converstion & affecting the value definition
 
-Overall m
+Overall learning about the values and operators is easy to remember just because it is similar to p5.jss
+
+Here are things that I found confusing and interesting going forward:
+
+-Learning about the condition operator(ternary operator " ? 1:2 " ) I am wondering where would I find the 3 third value to determine T or F.
+Also when would I used this operator instead of an if statement 
+
+- trying to remeber all the types of oprerators.
