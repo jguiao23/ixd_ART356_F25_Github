@@ -2,11 +2,11 @@
 
 This chapter is a beginning baseline of the the following: 
 
--The types of values(numbers strings,booleans & Empty.
+- The types of values(numbers strings,booleans & Empty.
 
--The types of Operators(Unary, Binary, Logical & Ternary)
+- The types of Operators(Unary, Binary, Logical & Ternary)
 
--The importance of Automatic Type Converstion & affecting the value definition
+- The importance of Automatic Type Converstion & affecting the value definition
 
 Overall learning about the values and operators is easy to remember just because it is similar to p5.jss
 
