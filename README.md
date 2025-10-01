@@ -19,4 +19,4 @@ This *text is italized*
 ### Journal Entries
 Visit my [Journal 01](journal/8262025_entry.md)
 
-This is my [Project 1](race_bet_randomizer)
+This is my [Project 1](race_bet_randomizer/index.html)
