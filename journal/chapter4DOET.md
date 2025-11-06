@@ -1,4 +1,4 @@
-#Chapter 3 Of DOET Relfection
+#Chapter 4 Of DOET Relfection
 
 I think this chapter really cemented to me how much one tiny bit of effort into a design descision can ultimately impact the product as a whole. 
 
